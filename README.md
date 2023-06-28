@@ -32,7 +32,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/bHYsiHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rQQYHa2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
