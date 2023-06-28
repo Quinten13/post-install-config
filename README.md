@@ -65,7 +65,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <br/>
 
  <p>
-  <img src="https://i.imgur.com/Rn0hZ5K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/JseZhwK.png/" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  </p> 
  
  <p>
