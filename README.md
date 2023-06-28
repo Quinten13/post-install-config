@@ -82,6 +82,24 @@ This tutorial outlines the post-installation configuration of the open-source he
   
   </p>
   <br/>
+
+  <p>
+      <img src="https://i.imgur.com/x7KLB5X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+
+ <p>
+   
+ </p>
+  <br/>
+
+  <p>
+      <img src="https://i.imgur.com/f4tMBiH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+
+ <p>
+   
+ </p>
+   <br/>
   
   
   
