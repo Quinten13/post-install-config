@@ -18,14 +18,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Post-Installation Steps</h2>
 
-- Install and enable IIS in windows with CGI
-- Next install PHP manager for IIS
-- Then install the rewrite module
-- After that download a PHP 7.3.8 zip file 
-- Then install a VC redist file
-- Lastly install the MYSQL to set up information 
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Allow anyone to create tickets 
+- Configure Agents (workers) 
+- Configure Users (customers)
+- Configure SLA (Service Level Agreement)
+- Configure Help Topics 
 
 <h2>Installation Steps</h2>
 
